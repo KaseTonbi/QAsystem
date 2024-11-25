@@ -20,22 +20,22 @@ question_parser.py：不同问题分开解析
 由于提取到的数据是存放与MongoDB数据库中的，此时需要将其转换为JSON格式的数据，所以此时需要编写python脚本将MongoDB数据库中的数据存储到JSON格式的数据文件中，将其用于后续知识图谱的构建数据。
 
 <div align="center">
-  <img src="./pictures/数据标注.jpg" alt="数据标注示意图" width="300" />
+  <img src="./pictures/数据标注.jpg" alt="数据标注示意图" width="500" />
 </div>
 
 ### 知识图谱构建
 建立了以穴位、症状、治疗方法为核心的知识图谱，知识图谱通过图数据库Neo4j进行存储与管理，使得不同实体间的关联关系更加直观，便于快速查询和信息提取。最终创建的知识图谱如图所示。
 
 <div align="center">
-  <img src="./pictures/知识图谱.jpg" alt="知识图谱展示" width="300" />
+  <img src="./pictures/知识图谱.jpg" alt="知识图谱展示" width="500" />
 </div>  
 
 ### 问答模块展示  
 <div align="center">
-<img src="./pictures/问答模块.jpg" alt="问答模块功能展示" width="300" />
+<img src="./pictures/问答模块.jpg" alt="问答模块功能展示" width="500" />
 </div>
 
-###　定位模块展示  
+### 定位模块展示  
 <div align="center">
-<img src="./pictures/定位.png" alt="穴位位置询问模块" width="300" />
+<img src="./pictures/定位.png" alt="穴位位置询问模块" width="500" />
 </div>
