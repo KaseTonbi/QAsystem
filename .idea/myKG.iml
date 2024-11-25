@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (zc_kg) (6)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="pyconchina21-neo4j-movies-main" />
+    <orderEntry type="module" module-name="neovis.js-master" />
+    <orderEntry type="module" module-name="neo4j-web-master" />
+    <orderEntry type="module" module-name="app" />
+    <orderEntry type="module" module-name="Class_RE_Learn" />
+    <orderEntry type="module" module-name="My_NER_Pytorch" />
+    <orderEntry type="module" module-name="BIO" />
+    <orderEntry type="module" module-name="DataAnnotation" />
+    <orderEntry type="module" module-name="kg-2019-master" />
+  </component>
+</module>

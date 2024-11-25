@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:/code/BIO/.idea/BIO.iml" filepath="F:/code/BIO/.idea/BIO.iml" />
+      <module fileurl="file://F:/code/Class_RE_Learn/.idea/Class_RE_Learn.iml" filepath="F:/code/Class_RE_Learn/.idea/Class_RE_Learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../DataAnnotation/.idea/DataAnnotation.iml" filepath="$PROJECT_DIR$/../../../DataAnnotation/.idea/DataAnnotation.iml" />
+      <module fileurl="file://F:/code/KG/My_NER_Pytorch/.idea/My_NER_Pytorch.iml" filepath="F:/code/KG/My_NER_Pytorch/.idea/My_NER_Pytorch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../BaiduNetdiskDownload/app/.idea/app.iml" filepath="$PROJECT_DIR$/../../../../BaiduNetdiskDownload/app/.idea/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../RE/baidu2019_sujianlin/kg-2019-master/kg-2019-master/.idea/kg-2019-master.iml" filepath="$PROJECT_DIR$/../../../RE/baidu2019_sujianlin/kg-2019-master/kg-2019-master/.idea/kg-2019-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/myKG.iml" filepath="$PROJECT_DIR$/.idea/myKG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../neo4j-web-master/.idea/neo4j-web-master.iml" filepath="$PROJECT_DIR$/../../../neo4j-web-master/.idea/neo4j-web-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../neovis.js-master/.idea/neovis.js-master.iml" filepath="$PROJECT_DIR$/../../../neovis.js-master/.idea/neovis.js-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../FlaskProject/pyconchina21-neo4j-movies-main/.idea/pyconchina21-neo4j-movies-main.iml" filepath="$PROJECT_DIR$/../../../FlaskProject/pyconchina21-neo4j-movies-main/.idea/pyconchina21-neo4j-movies-main.iml" />
+    </modules>
+  </component>
+</project>
